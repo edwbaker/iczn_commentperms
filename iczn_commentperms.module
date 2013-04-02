@@ -1,0 +1,10 @@
+<?php
+
+function iczn_commentperms_scratchpads_default_permissions(){
+  return array(
+    'authenticated user' => array(
+      'lan_name: comment on any lan_name content',
+      'lan_name: comment without approval on any lan_name content'
+    )
+  );
+}

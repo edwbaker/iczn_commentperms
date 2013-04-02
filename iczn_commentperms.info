@@ -1,0 +1,4 @@
+name = ICZN Comments
+description = Sort out LAN name comment permissions
+core = 7.x
+package = ICZN
